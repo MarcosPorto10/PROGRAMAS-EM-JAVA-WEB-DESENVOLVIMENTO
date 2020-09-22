@@ -20,9 +20,8 @@ public class ex_1002 {
         
         System.out.printf("A=%.4f\n;" , area );
     
-    
-    
     }
          
         
 }
+// teste
