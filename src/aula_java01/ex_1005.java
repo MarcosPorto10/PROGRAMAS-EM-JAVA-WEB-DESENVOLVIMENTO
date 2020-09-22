@@ -18,3 +18,5 @@ public class ex_1005 {
         System.out.printf("SUA MEDIA :%.5f\n ", media);
     }
 }
+//teste
+//teste
