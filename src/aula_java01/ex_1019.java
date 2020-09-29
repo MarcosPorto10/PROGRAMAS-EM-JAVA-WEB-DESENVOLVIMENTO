@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class ex_1019 {
     public static void main(String[] args) {
-        int valor,h,rh,m,rm,s,rs;
+        int valor,h,rh,m,rm,s;
         
         Scanner entrada = new Scanner(System.in);
         
